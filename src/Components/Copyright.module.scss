@@ -1,0 +1,12 @@
+@import '../variables.scss';
+
+.copyright {
+    color: $primary-color;
+    font-size: small;
+    font-weight: bold;
+    margin-bottom: 30px;
+    a {
+        color: $secondary-color;
+        text-decoration: none;
+    }
+}

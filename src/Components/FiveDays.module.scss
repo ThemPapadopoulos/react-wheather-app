@@ -1,0 +1,19 @@
+@import '../variables.scss';
+
+
+
+.daily {
+    ul {
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        list-style: none;
+        gap: 10%;
+        flex-wrap: wrap;
+        font-size: larger;
+
+    }
+    li {
+        margin-bottom: 20px;
+    }
+}
