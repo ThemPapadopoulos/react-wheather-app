@@ -1,3 +1,6 @@
+A small widget made with React, uses the OpenWeather API to show current,5-day-forecast and 5-hour temperature forecast in Athens,Greece.
+ 
+
 live demo here: [https://weather-app-athens.surge.sh/)
 
 # Getting Started with Create React App
